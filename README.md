@@ -24,7 +24,6 @@ Here are some ideas to get you started:
 
 - 👯 I’m looking to collaborate on **exciting projects**
 - 💬 Ask me about **Web Development, JavaScript, Python, and more!**
-- 📫 How to reach me: **[Find all links below!](#-connect-with-me)**
 
 ## 🛠️ Tech Stack
 <p align="center">
