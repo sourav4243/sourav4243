@@ -23,7 +23,6 @@ Here are some ideas to get you started:
 ## 🚀 About Me
 
 - 👯 I’m looking to collaborate on **exciting projects**
-- 💬 Ask me about **Web Development, JavaScript, Python, and more!**
 
 ## 🛠️ Tech Stack
 <p align="center">
