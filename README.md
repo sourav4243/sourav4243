@@ -20,9 +20,10 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;Always+learning+and+building...;+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
-## 🚀 About Me
 
-- 👯 I’m looking to collaborate on **exciting projects**
+<h2>About Me</h2>
+
+- I’m looking to collaborate on **exciting projects**
 
 ## 🛠️ Tech Stack
 <p align="center">
