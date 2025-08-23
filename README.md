@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,java,cpp,html,css,tailwind,mongodb,mysql,postgres,git,github,linux,vscode" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,python,cpp,html,css,tailwind,mongodb,mysql,postgres,git,github,vscode" alt="Tech Stack" />
 </p>
 
 ## 📊 GitHub Stats
