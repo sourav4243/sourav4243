@@ -22,12 +22,16 @@ Here are some ideas to get you started:
 </p>
 
 <h2>About Me</h2>
+<ul>
+  <li>3rd-year Computer Science undergrad focused on <strong>C++</strong>, low-level programming, and systems fundamentals.</li>
+  <li>Interested in building performance-oriented projects and understanding how things work under the hood.</li>
+  <li>Working on web development using <strong>Next.js</strong>, <strong>Tailwind</strong>, and <strong>Flask</strong> for full-stack projects.</li>
+</ul>
 
-- I’m looking to collaborate on **exciting projects**
 
 ## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,python,cpp,html,css,tailwind,mongodb,mysql,postgres,git,github,vscode" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,cpp,html,css,tailwind,mongodb,mysql,postgres,vscode,linux" alt="Tech Stack" />
 </p>
 
 ## 📊 GitHub Stats
