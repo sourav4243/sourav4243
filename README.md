@@ -1,49 +1,38 @@
-
-
-<!--
-**sourav4243/sourav4243** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h1 align="center">Hi 👋, I'm Sourav</h1>
-<!-- <h3 align="center">A passionate developer and technology enthusiast</h3> -->
+<h1 align="center">Hi, I'm Sourav</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;Always+learning+and+building...;+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=520&lines=Computer+Science+Undergraduate;Systems+%7C+C%2B%2B+%7C+Low-Level+Programming;Learning+by+Building" alt="Typing SVG" />
 </p>
 
 <h2>About Me</h2>
 <ul>
-  <li>3rd-year Computer Science undergrad focused on <strong>C++</strong>, low-level programming, and systems fundamentals.</li>
-  <li>Interested in building performance-oriented projects and understanding how things work under the hood.</li>
-  <li>Working on web development using <strong>Next.js</strong>, <strong>Tailwind</strong>, and <strong>Flask</strong> for full-stack projects.</li>
+  <li>3rd-year Computer Science undergraduate with a strong focus on <strong>C++</strong>, systems programming, and core CS fundamentals.</li>
+  <li>Interested in performance-critical software and understanding systems at a low level.</li>
+  <li>Also exploring modern web development to build complete, production-ready projects.</li>
 </ul>
 
-
-## 🛠️ Tech Stack
+<h2>Tech Stack</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,cpp,html,css,tailwind,mongodb,mysql,postgres,vscode,linux" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=linux,cpp,ts,js,react,nextjs,python,html,css,tailwind,mongodb,mysql,postgres,vscode" alt="Tech Stack" />
 </p>
 
-## 📊 GitHub Stats
+<h2>GitHub Stats</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourav4243&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/sourav-kumar-56a6482b4" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:souravkumar18835@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://integral-space.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-36BCF7?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
 
-<a href="https://www.linkedin.com/in/sourav-kumar-56a6482b4" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a><a href="mailto:souravkumar18835@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<!--   <a href="https://sourav4243.github.io" target="blank"><img src="https://img.shields.io/badge/Portfolio-36BCF7?style=for-the-badge&logo=vercel&logoColor=white"/></a> -->
-<!--
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sourav4243&label=Profile%20views&color=36BCF7&style=flat" alt="Profile views" />
 </p>
--->
