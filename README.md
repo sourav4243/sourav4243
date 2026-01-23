@@ -18,7 +18,9 @@
 
 <h2>GitHub Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourav4243&layout=compact&theme=radical" alt="Top Languages" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourav4243&layout=compact&theme=radical" alt="Top Languages" /> -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourav4243&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
+  <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sourav4243&layout=donut) -->
 </p>
 
 <p align="center">
