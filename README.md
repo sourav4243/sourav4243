@@ -20,8 +20,8 @@
 
 <h3>Currently Working on:</h3>
 <ul>
-  <li>Optimizing My RayTracer</li>
-  <li>sift-video project</li>
+  <li>Optimize Render time in RayTracer</li>
+  <li>sift-video: A system to search in videos in natural language</li>
   <!-- <li></li> -->
 </ul>
 
