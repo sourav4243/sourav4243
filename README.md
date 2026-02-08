@@ -12,10 +12,6 @@
 <!-- </ul> -->
 
 
-<h2>Tech Stack</h2>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,cpp,ts,js,react,nextjs,python,html,css,tailwind,mongodb,mysql,postgres,vscode" alt="Tech Stack" />
-</p>
 
 
 <h3>Currently Working on:</h3>
@@ -24,6 +20,11 @@
   <li>sift-video: A system to search in videos in natural language</li>
   <!-- <li></li> -->
 </ul>
+<!-- <h2>Tech Stack</h2> -->
+<p align="center">
+  <!-- <img src="https://skillicons.dev/icons?i=linux,cpp,ts,js,react,nextjs,python,html,css,tailwind,mongodb,mysql,postgres,vscode" alt="Tech Stack" /> -->
+  <img src="https://skillicons.dev/icons?i=linux,cpp,react,nextjs,docker" alt="Tech Stack" />
+</p>
 
 <!-- <h2>GitHub Stats</h2> -->
 <!-- <p align="center"> -->
