@@ -16,7 +16,7 @@
 
 <h3>Currently Working on:</h3>
 <ul>
-  <li>Optimize Render time in RayTracer</li>
+  <!-- <li>Optimize Render time in RayTracer</li> -->
   <li>sift-video: A system to search in videos in natural language</li>
   <!-- <li></li> -->
 </ul>
