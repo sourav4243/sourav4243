@@ -18,6 +18,7 @@
 <ul>
   <!-- <li>Optimize Render time in RayTracer</li> -->
   <li>sift-video: A system to search in videos in natural language</li>
+  <li>litsync: A p2p file sync tool between linux and android</li>
   <!-- <li></li> -->
 </ul>
 <!-- <h2>Tech Stack</h2> -->
