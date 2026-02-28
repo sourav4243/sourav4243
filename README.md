@@ -50,3 +50,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sourav4243&label=Profile%20views&color=36BCF7&style=flat" alt="Profile views" />
 </p> 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sourav4243&theme=dark" alt="sourav's streak stats" />
+</p>
