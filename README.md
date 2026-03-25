@@ -16,23 +16,26 @@
 
 <h3>Currently Working on:</h3>
 <ul>
-  <!-- <li>Optimize Render time in RayTracer</li> -->
   <li>sift-video: A system to search in videos in natural language</li>
   <li>litsync: A p2p file sync tool between linux and android</li>
   <!-- <li></li> -->
 </ul>
-<!-- <h2>Tech Stack</h2> -->
+
+<br>
+
 <p align="center">
-  <!-- <img src="https://skillicons.dev/icons?i=linux,cpp,ts,js,react,nextjs,python,html,css,tailwind,mongodb,mysql,postgres,vscode" alt="Tech Stack" /> -->
-  <img src="https://skillicons.dev/icons?i=linux,cpp,react,nextjs,docker" alt="Tech Stack" />
+  <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio" />
 </p>
 
-<!-- <h2>GitHub Stats</h2> -->
-<!-- <p align="center"> -->
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourav4243&layout=compact&theme=radical" alt="Top Languages" /> -->
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourav4243&layout=compact&theme=vision-friendly-dark" alt="Top Languages" /> -->
-  <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sourav4243&layout=donut) -->
-<!-- </p> -->
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sourav4243&theme=tokyonight&hide_border=true&background=transparent" />
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sourav-kumar-56a6482b4" target="_blank">
@@ -50,6 +53,3 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sourav4243&label=Profile%20views&color=36BCF7&style=flat" alt="Profile views" />
 </p> 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sourav4243&theme=dark" alt="sourav's streak stats" />
-</p>
